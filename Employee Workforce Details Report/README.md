@@ -63,3 +63,25 @@ Data roles were refreshed after the role configuration.
 
 * **OTBI Catalog File** – Report catalog export
 * **Excel File** – Report output
+
+---
+## 📊 Employee Workforce Details Report
+## 📸 Screenshots
+
+## 1️⃣ Subject Area
+<img src="./Screenshot/01_Subject_Area.png" alt="Subject Area"/>
+
+## 2️⃣ Selected Columns
+<img src="./Screenshot/02_Selected_Columns.png" alt="Selected Columns"/>
+
+## 3️⃣ Prompts
+<img src="./Screenshot/03_Prompts.png" alt="Prompts"/>
+
+## 4️⃣ Active Assignment Prompt
+<img src="./Screenshot/04_Active_Assigment_Prompt.png" alt="Active Assignment Prompt"/>
+
+## 5️⃣ Filters
+<img src="./Screenshot/05_Filters.png" alt="Filters"/>
+
+## 6️⃣ Report Output
+<img src="./Screenshot/06_Report.png" alt="Report Output"/>
